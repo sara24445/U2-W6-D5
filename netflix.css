@@ -1,0 +1,33 @@
+body {
+  background-color: #141414;
+  color: white;
+}
+.navbar-brand img {
+  height: 40px; /* Imposta l'altezza del logo */
+}
+.card img {
+  transition: transform 0.3s;
+}
+.card img:hover {
+  transform: scale(1.05);
+}
+.genre-dropdown {
+  margin-top: 10px; /* Distanza sopra il bottone dei generi */
+}
+.carousel-item img {
+  width: 100%; /* Assicurarsi che le immagini occupino il 100% della larghezza */
+  height: auto; /* Altezza automatica per mantenere le proporzioni */
+}
+
+.footer a {
+  text-decoration: none;
+}
+.footer a:hover {
+  text-decoration: underline;
+}
+
+.change-account {
+  cursor: pointer;
+  color: #ffffff;
+  margin-top: 20px;
+}
