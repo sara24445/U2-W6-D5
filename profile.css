@@ -1,0 +1,10 @@
+body {
+  background-color: #141414;
+  color: white;
+}
+.navbar-brand img {
+  height: 40px; /* Imposta l'altezza del logo */
+}
+.im-profile {
+  height: 100px; /* Imposta l'altezza del logo */
+}
